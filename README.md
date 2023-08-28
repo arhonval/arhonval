@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Hello there! Stay awhile and listen! 👋
+# 👋 Hello there! Stay awhile and listen! 👋
 
 ## ❤️‍🔥 I like:
 ### 👨🏻‍💻 Coding
