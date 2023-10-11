@@ -1,5 +1,5 @@
-# ![codewars](https://www.codewars.com/users/arhonval/badges/large)
 # 👋 Hello there! Stay awhile and listen! 👋
+# ![codewars](https://www.codewars.com/users/arhonval/badges/large)
 
 ## ❤️‍🔥 I like:
 ### 👨🏻‍💻 Coding
